@@ -75,7 +75,7 @@ function game() {
         player.health -= 0.30
     }
     console.log(player.health);
-
+//
     if (player.health < 1) {
         alert("LU KALAH ANJING LU KALAH TOLOL AOWKOAWKOAKWOKWAOAWKOWKOAWK")
         location.reload()
